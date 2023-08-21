@@ -1,5 +1,4 @@
 import React from "react";
-import MemeText from "./MemeText";
 
 const Image = (props) => {
   return (
